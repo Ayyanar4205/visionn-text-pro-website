@@ -1,0 +1,7 @@
+{
+  "name": "VisionText Pro",
+  "description": "AI-powered handwriting recognition, camera OCR, and image-to-text conversion with PDF export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
